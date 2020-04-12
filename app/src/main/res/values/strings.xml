@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess my number</string>
+    <string name="guess">Guess number</string>
+    <string name="restart">Restart game</string>
+    <string name="instructions">Try to guess my number. It is between 0 and 100.</string>
+
+</resources>
